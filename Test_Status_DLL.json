@@ -1,0 +1,116 @@
+[
+    {
+        "Synapse": {
+            "updated": true,
+            "exploit_version": "v2.17.0c",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-19",
+            "last_update_unix": 1658284142
+        }
+    },
+    {
+        "Script-Ware": {
+            "updated": true,
+            "exploit_version": "1.0.26.2",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-16",
+            "last_update_unix": 1658016902
+        }
+    },
+    {
+        "KRNL": {
+            "updated": true,
+            "exploit_version": "2013R",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-16",
+            "last_update_unix": 1657992781
+        }
+    },
+    {
+        "Temple": {
+            "updated": true,
+            "exploit_version": "Unknown",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-14",
+            "last_update_unix": 1657828202
+        }
+    },
+    {
+        "DX9WARE": {
+            "updated": true,
+            "exploit_version": "Unknown",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-17",
+            "last_update_unix": 1658053322
+        }
+    },
+    {
+        "Electron": {
+            "updated": true,
+            "exploit_version": "v2.1.4F",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-13",
+            "last_update_unix": 1657736701
+        }
+    },
+    {
+        "WeAreDevs API": {
+            "updated": false,
+            "exploit_version": "3038",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-13",
+            "last_update_unix": 1657735082
+        }
+    },
+    {
+        "Oxygen": {
+            "updated": true,
+            "exploit_version": "46b",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-16",
+            "last_update_unix": 1657988822
+        }
+    },
+    {
+        "Fluxus": {
+            "updated": true,
+            "exploit_version": "V7.2b041",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-16",
+            "last_update_unix": 1657953361
+        }
+    },
+    {
+        "Ro-Ware": {
+            "updated": true,
+            "exploit_version": "1.0.0.44",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-16",
+            "last_update_unix": 1658004361
+        }
+    },
+    {
+        "V-Severe": {
+            "updated": false,
+            "exploit_version": "Unknown",
+            "roblox_version": "version-9a6f7467af154650",
+            "last_update": "2022-04-23",
+            "last_update_unix": 1650772261
+        }
+    },
+    {
+        "Comet": {
+            "updated": true,
+            "exploit_version": "V2.1.3.7 [BETA]",
+            "roblox_version": "version-e0aac2da98484890",
+            "last_update": "2022-07-16",
+            "last_update_unix": 1657954681
+        }
+    },
+    {
+        "ROBLOX": {
+            "version": "version-e0aac2da98484890",
+            "last_update_unix": 1657735051
+        }
+    }
+]
