@@ -1,7 +1,7 @@
 [
     {
         "Synapse": {
-            "updated": true,
+            "updated": false,
             "exploit_version": "v2.17.0c",
             "roblox_version": "version-e0aac2da98484890",
             "last_update": "2022-07-19",
